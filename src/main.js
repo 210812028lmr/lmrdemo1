@@ -14,7 +14,6 @@ import ground from './demo/ground';
 
 const clock = new THREE.Clock();
 
-
 let camera, scene, renderer, stats, gui, settings = {};
 
 function init() {
